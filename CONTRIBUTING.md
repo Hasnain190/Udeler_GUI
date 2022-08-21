@@ -15,9 +15,9 @@ Edit the files you want to and commit the changes.
 
 `2. Make a Pull request`
 
-When you are done editing the file(s) and have commited the changes to the fork, you can now make a pull request to this repository.
+When you are done editing the file(s) and have committed the changes to the fork, you can now make a pull request to this repository.
 You will see a Pull request option alongside compare just above the Latest commit message in your fork. 
-Please beaware making a pull request to your own repository and making a pull request to this repository are two different things.
+Please beware making a pull request to your own repository and making a pull request to this repository are two different things.
 You need to click on the `Pull request button` and not the `Pull requests tab`. 
 
 `3. Wait for the changes to get approved`
@@ -31,7 +31,7 @@ Please note that, you do not have to make another pull request, just make the ch
 ## Adding translation
 
 This application aims to be available in multiple (as many as we can) languages. 
-The task could have been achieved by using a translation tool, but in order to maintain accuracy and context, this repository provides an easy way for the contributors native to different languges to add their language to the application.
+The task could have been achieved by using a translation tool, but in order to maintain accuracy and context, this repository provides an easy way for the contributors native to different languages to add their language to the application.
 
 ### Adding/Updating a language
 
@@ -98,7 +98,7 @@ You should have something like this inside your LANGUAGE_SHORTNAME.json file.
   "Courses": ""
 }
 ```
-Notice that you are aleady given the words that you need to add translation for. Just add the translation inside the empty quotes given next to each English word.
+Notice that you are already given the words that you need to add translation for. Just add the translation inside the empty quotes given next to each English word.
 Please do not add any new words as the words given are the only words that the app will look for.
 
 `3. Commit your changes and make a Pull request`
